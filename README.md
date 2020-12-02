@@ -41,7 +41,6 @@ Add the following code to your view
             }
         }, 50, TimeFormatEnum.SECONDS, 10)
 ```
-how to set time programmatically ?
 
 ```java
 
