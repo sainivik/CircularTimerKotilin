@@ -1,6 +1,6 @@
 # CircularTimerKotilin
 Circular timer in kotlin
-![Overview Main Activity](https://github.com/sainivik/CircularTimerKotilin/blob/master/app/screenshots/device-2020-12-02-105604.png)
+![Overview Main Activity](https://github.com/sainivik/CircularTimerKotilin/blob/master/app/screenshots/circularview.gif.gif)
 
 #### Usage
 
