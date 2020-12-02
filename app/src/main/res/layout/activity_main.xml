@@ -27,7 +27,6 @@
                 android:id="@+id/progressCircular"
                 android:layout_width="250dp"
                 android:layout_height="250dp"
-
                 app:backgroundColor="@color/white"
                 app:backgroundWidth="8"
                 app:maxValue="100"
