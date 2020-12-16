@@ -42,7 +42,6 @@ Add the following code to your view
         }, 50, TimeFormatEnum.SECONDS, 10)
 ```
 
-```java
 
 ## Author
 
