@@ -8,7 +8,7 @@ Circular timer in kotlin
 Add the following code to your view
 
 ```xml
- <com.whide.partner.utils.circularTimer.CircularTimerView
+     <com.sainivik.circulartimer.circularTimer.CircularTimerView
                 android:id="@+id/progressCircular"
                 android:layout_width="250dp"
                 android:layout_height="250dp"

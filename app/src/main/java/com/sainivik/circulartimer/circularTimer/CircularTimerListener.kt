@@ -1,4 +1,4 @@
-package com.whide.partner.utils.circularTimer
+package com.sainivik.circulartimer.circularTimer
 
 interface CircularTimerListener {
     fun updateDataOnTick(remainingTimeInMs: Long): String?

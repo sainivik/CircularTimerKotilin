@@ -1,4 +1,4 @@
-package com.whide.partner.utils.circularTimer
+package com.sainivik.circulartimer.circularTimer
 
 import android.content.Context
 import android.graphics.Canvas
@@ -11,7 +11,6 @@ import android.text.TextUtils
 import android.util.AttributeSet
 import android.view.View
 import com.sainivik.circulartimer.R
-import com.sainivik.circulartimer.circularTimer.TimeFormatEnum
 
 
 class CircularTimerView : View {

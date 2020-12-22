@@ -6,9 +6,9 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import com.sainivik.circulartimer.R
+import com.sainivik.circulartimer.circularTimer.CircularTimerListener
 import com.sainivik.circulartimer.circularTimer.TimeFormatEnum
 import com.sainivik.circulartimer.databinding.ActivityMainBinding
-import com.whide.partner.utils.circularTimer.CircularTimerListener
 
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
